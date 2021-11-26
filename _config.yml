@@ -16,7 +16,7 @@ url:
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
 # 那么就写成 "/repository-name"
-baseurl: /repository-dodo
+baseurl: /dodo
 
 
 #
@@ -24,10 +24,10 @@ baseurl: /repository-dodo
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://wx3.sinaimg.cn/mw2000/006GOTd0ly1gwt0jocw51j30ae0ak78d.jpg
+avatar: https://wx2.sinaimg.cn/mw2000/006GOTd0ly1gwt0omvj5xj305w05ywft.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
-favicon: https://wx2.sinaimg.cn/mw2000/006GOTd0ly1gwszf0goi2j303i03gglz.jpg
+favicon: https://wx2.sinaimg.cn/mw2000/006GOTd0ly1gwt0qcw5nsj300s00s0si.jpg
 
 
 # 菜单中的按钮
