@@ -11,7 +11,7 @@ name: 来盘茴香豆
 description: 随便写写。
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
-url: http://nadatomayo.github.io/repository-dodo
+url: 
 
 # 添加你的博客的二级域名，一般来说是你的repository名
 # 如果你的博客的URL是：(http://yourusername.github.io/repository-name)
@@ -24,7 +24,7 @@ baseurl: /repository-dodo
 #
 
 # 你的博客logo图片URL，建议尺寸不超过300px × 300px
-avatar: https://wx1.sinaimg.cn/mw2000/006GOTd0ly1gwszcq3a6sj30go0go47z.jpg
+avatar: https://wx3.sinaimg.cn/mw2000/006GOTd0ly1gwt0jocw51j30ae0ak78d.jpg
 
 # 你的favicon（出现在浏览器tab上）图片URL，建议使用较小(64px × 64px)的图片
 favicon: https://wx2.sinaimg.cn/mw2000/006GOTd0ly1gwszf0goi2j303i03gglz.jpg
