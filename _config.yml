@@ -8,7 +8,7 @@
 
 # 描述/签名
 name: 来盘茴香豆
-description: 随便写写。
+description: 我身上洋溢着青春，如何能谈论死亡。
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
 url: 
@@ -49,7 +49,7 @@ excerpt_separator: <!-- more -->
 
 # 你的社交网络链接，它们会作为图标出现在你的网站页脚中，可选填写
 footer-links: 
-  weibo: https://weibo.com/6129531730/
+  weibo: # https://weibo.com/6129531730
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
   email: nadatomayo@gmail.com
